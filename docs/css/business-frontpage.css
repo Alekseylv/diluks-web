@@ -24,6 +24,11 @@ body {
   -o-background-size: cover;
 }
 
+.brand-title {
+  font-family: "Times New Roman";
+  font-weight: bold;
+}
+
 .card {
   height: 100%;
 }
